@@ -1,0 +1,48 @@
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.exe.config
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.exe
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.pdb
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\View\SplitWiseWindow.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM_MarkupCompile.cache
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM_MarkupCompile.lref
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\View\SplitWiseWindow.baml
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.g.resources
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.Properties.Resources.resources
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.exe
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.pdb
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.exe.config
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.exe
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.pdb
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\View\SplitWiseWindow.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM_MarkupCompile.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM_MarkupCompile.lref
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\View\SplitWiseWindow.baml
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.g.resources
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.Properties.Resources.resources
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.exe
+C:\Users\User\source\repos\SplitWiseMVVM - Copy\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.pdb
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.exe.config
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.exe
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\bin\Debug\SplitWiseMVVM.pdb
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\View\SplitWiseWindow.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM_MarkupCompile.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM_MarkupCompile.lref
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\View\SplitWiseWindow.baml
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.g.resources
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.Properties.Resources.resources
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.exe
+C:\Users\User\source\repos\SplitWiseMVVM - Multiple Group\SplitWiseMVVM\obj\Debug\SplitWiseMVVM.pdb
